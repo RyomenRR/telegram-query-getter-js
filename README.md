@@ -14,7 +14,7 @@ Telegram web apps query getter, to get query data provided by telegram when auth
 
 ## Setup & Configure
 
-1. clone project repo
+1. `git clone https://github.com/RyomenRR/telegram-query-getter-js.git`
 2. run `npm install`
 3. run `cp config_tmp.js config.js`
    To configure the app, open `src/config.js` and add your telegram app id and hash there
