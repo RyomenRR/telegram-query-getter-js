@@ -16,12 +16,12 @@ Telegram web apps query getter, to get query data provided by telegram when auth
 
 1. Clone this Repo and cd
     ```shell
-     git clone https://github.com/RyomenRR/telegram-query-getter-js.git
+   git clone https://github.com/RyomenRR/telegram-query-getter-js.git
    cd telegram-query-getter-js.git```
    
 3. Run
   ```
- npm install
+  npm install
    ```
 7. Run
    ```
