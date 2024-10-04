@@ -14,12 +14,15 @@ Telegram web apps query getter, to get query data provided by telegram when auth
 
 ## Setup & Configure
 
-1. `git clone https://github.com/RyomenRR/telegram-query-getter-js.git`
-2. run `npm install`
-3. run `cp config_tmp.js config.js`
-   To configure the app, open `src/config.js` and add your telegram app id and hash there
-4. Create sessions directory ```mkdir sessions```
-5. to start the app run `npm run start`
+1. Clone this Repo and cd
+    ```git clone https://github.com/RyomenRR/telegram-query-getter-js.git
+    cd telegram-query-getter-js.git```
+   
+2. Run ```npm install```
+5. Run ```cp config_tmp.js config.js```
+   To configure the app, open `nano config.js` and add your telegram app id and hash there
+6. Create sessions directory ```mkdir sessions```
+7. to start the app run ```npm run start```
 
 ## Preview
 ![](Preview.gif)
